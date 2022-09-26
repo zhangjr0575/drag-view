@@ -1,6 +1,6 @@
 ## Describe
 
-视图跟随鼠标自由移动vue2指令
+在滚动容器内, 控制视图跟随鼠标自由移动指令(vue2)
 
 ## Installation
 
