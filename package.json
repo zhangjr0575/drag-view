@@ -1,0 +1,24 @@
+{
+	"name": "@zhangjr0575/view-free-visual",
+	"version": "1.0.0",
+	"description": "vue版本视图拖动指令",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zhangjr0575/drag-view.git"
+	},
+	"keywords": [
+		"vue",
+		"指令",
+		"拖动"
+	],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/zhangjr0575/view-free-visual/issues"
+	},
+	"homepage": "https://github.com/zhangjr0575/view-free-visual#readme"
+}
