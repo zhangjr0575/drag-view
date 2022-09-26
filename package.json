@@ -1,6 +1,7 @@
 {
 	"name": "@zhangjr0575/view-free-visual",
 	"version": "1.0.0",
+	"private": "false",
 	"description": "vue版本视图拖动指令",
 	"main": "main.js",
 	"scripts": {
